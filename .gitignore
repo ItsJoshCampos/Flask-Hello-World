@@ -1,3 +1,7 @@
 venv/
 
 .DS_Store
+
+.env
+
+**/oidc_settings.local.json
