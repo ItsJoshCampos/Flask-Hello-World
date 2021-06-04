@@ -1,4 +1,4 @@
-# Python 3 Flask API, Prepped for OIDC
+# Flask API, Prepped for OIDC
 
 ## Local Setup for Dev
 From this project directory, follow the steps:
